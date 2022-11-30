@@ -44,6 +44,7 @@
 - [Limoo Kiplimo](https://github.com/Limookiplimo)
 - [Arnav Joshi] (https://githuyb.com/TheOfficialAJ)
 - [Mohamed Abidar](https://github.com/abidarm)
+- Yash Rustogi
 - [Amir](https://github.com/amir-repository)
 - [Chandan kumar Chaudhary](https://github.com/chands)
 - [Xiyue Zhang](https://github.com/xiyueuyix)
